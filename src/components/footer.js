@@ -106,8 +106,8 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Made with Dhruv<br></br><br></br>
-            Follow me on LinkedIn
+            Dhruv <br></br><br></br>
+            
             
           <span>&copy; All rights reserved.</span>
           </div>
