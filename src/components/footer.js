@@ -109,9 +109,9 @@ const Footer = () => {
             Made with Dhruv<br></br><br></br>
             Follow me on LinkedIn
             
-          </div>
           <span>&copy; All rights reserved.</span>
-          )}
+          </div>
+          
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
