@@ -4,7 +4,7 @@ module.exports = {
     'Dhruv is a Software Developer, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Dhruv Singhal, Dhruvsinghal027, Software Developer, Web Developer, Quant Enthusiast, javascript, Leetcode, Next., HPAIR',
-  siteUrl: 'https://roopshreeudaiwal.netlify.app/',
+  siteUrl: 'https://portfolio-dhruvsinghal.vercel.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
