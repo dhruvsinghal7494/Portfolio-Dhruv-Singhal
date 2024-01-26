@@ -102,26 +102,15 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/Roopshree6902/Portfolio_me"
+          href="https://www.linkedin.com/in/dhruv-singhal9/"
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Made with 🤍 by Roopshree<br></br><br></br>
-            Star/Follow me on Github
+            Made with Dhruv<br></br><br></br>
+            Follow me on LinkedIn
             
           </div>
-
-          {githubInfo.stars && githubInfo.forks && (
-            <StyledGitHubInfo>
-              <span>
-                <FormattedIcon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <FormattedIcon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </StyledGitHubInfo>
+          <span>&copy; All rights reserved.</span>
           )}
         </StyledGitHubLink>
       </StyledMetadata>
